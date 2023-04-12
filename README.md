@@ -1,7 +1,7 @@
-# BDO-Item-API
-Simple Black Desert Online Item REST API with Localizations and Icons
+# BDO Item API
+Simple Black Desert Online Item REST API with localizations and icons.
 
-Support Language:
+## Support Language:
 - RU
 - US
 - ES
@@ -12,4 +12,5 @@ Support Language:
 - JP 
 - CN
 - ID
+
 
